@@ -1,111 +1,95 @@
 
-[
-    {
-      "id": 1,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": "Chocolate"
-      
-    },
-    {
-      "id": 2,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": "Vainilla"
-      
-    },
-    {
-      "id": 3,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 4,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 5,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 6,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 7,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanilla extract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 8,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    },
-    {
-      "id": 9,
-      "Sugar": "200g",
-      "BakingPowder": "1tsp",
-      "Margarineorsoftenedbutter": "175g",
-      "Flour": "175g",
-      "Eggs": "3",
-      "Vanillaextract": "1tsp",
-      "Salt": "A pinch",
-      "CakeMix": ""
-      
-    }
-  ]
+{
+    "Ingredients": [
+  {
+    "id": 1,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 2,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 3,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 4,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 5,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 6,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 7,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanilla extract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 8,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  },
+  {
+    "id": 9,
+    "Sugar": "200g",
+    "BakingPowder": "1tsp",
+    "Margarineorsoftenedbutter": "175g",
+    "Flour": "175g",
+    "Eggs": "3",
+    "Vanillaextract": "1tsp",
+    "Salt": "A pinch"
+  }
+]
+}
