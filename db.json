@@ -1,121 +1,111 @@
-{
-    "Ingredientes":[
-        {
-         "id" : 1,
-         "Sugar": "200g",
-         "Baking Powder": "1tsp",
-         "Margarine or softened butter": "175g",
-         "Flour":"175g",
-         "Eggs":"3",
-         "Vanilla extract":"1tsp",
-         "Salt": "A pinch"
-        },
 
-        {
-            "id" : 2,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 3,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Cherries":"6",
-            "Vanilla extract":"1tsp",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 4,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Unsweetened Cocoa powder":"3/4 cup",
-            "Vegetable oil":"1/2 cup",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 5,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Unsweetened Cocoa powder":"3/4 cup",
-            "Vegetable oil":"1/2 cup",
-            "Sprinkles":"1/2 cup",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 6,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Unsweetened Cocoa powder":"3/4 cup",
-            "Vegetable oil":"1/2 cup",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 7,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Milk":"1/2 cup",
-            "Sprinkles":"1/2 cup",
-            "Heavy cream":"6tbs",
-            "Vegetable oil":"1/2 cup",
-            "Strawberrys":"30",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 8,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Heavy cream":"6tbs",
-            "Vegetable oil":"1/2 cup",
-            "Strawberrys":"12",
-            "Salt": "A pinch"
-        },
-
-        {
-            "id" : 9,
-            "Sugar": "200g",
-            "Baking Powder": "1tsp",
-            "Margarine or softened butter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Heavy cream":"6tbs",
-            "Vegetable oil":"1/2 cup",
-            "Strawberrys":"12",
-            "Salt": "A pinch"
-        }
-    ]
-
-}
+[
+    {
+      "id": 1,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": "Chocolate"
+      
+    },
+    {
+      "id": 2,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": "Vainilla"
+      
+    },
+    {
+      "id": 3,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 4,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 5,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 6,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 7,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanilla extract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 8,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    },
+    {
+      "id": 9,
+      "Sugar": "200g",
+      "BakingPowder": "1tsp",
+      "Margarineorsoftenedbutter": "175g",
+      "Flour": "175g",
+      "Eggs": "3",
+      "Vanillaextract": "1tsp",
+      "Salt": "A pinch",
+      "CakeMix": ""
+      
+    }
+  ]
