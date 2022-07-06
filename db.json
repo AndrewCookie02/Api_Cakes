@@ -8,7 +8,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 2,
@@ -18,7 +20,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
           {
             "id": 3,
@@ -28,7 +32,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 4,
@@ -38,7 +44,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
           {
             "id": 5,
@@ -48,7 +56,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 6,
@@ -58,7 +68,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
           {
             "id": 7,
@@ -68,7 +80,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanilla extract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 8,
@@ -78,7 +92,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
           {
             "id": 9,
@@ -88,7 +104,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "CakeMix": "Chocolate",
+            "Fruits": "6 cherries"
           }
     ]
 
